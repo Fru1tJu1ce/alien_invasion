@@ -45,10 +45,7 @@ def start_game(ai_settings, screen, stats, sb, ship, aliens, bullets):
     stats.game_active = True
     
     # Сброс изображений счётов и уровня
-    sb.prep_score()
-    sb.prep_high_score()
-    sb.prep_level()
-    sb.prep_ships()
+    sb.prep_images()
             
     # Очистка списков пришельцев и пуль.
     aliens.empty()
