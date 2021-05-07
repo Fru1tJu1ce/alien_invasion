@@ -1,4 +1,4 @@
-# alien_invasion
+# Alien Invasion
 This repository was created when the Alien Invasion project was completed. This project is based on the book "Python Crash Course" by Eric Matthes.
 Use left and right arrows to move spaceship.
 Use spacebar to shoot.
